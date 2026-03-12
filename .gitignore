@@ -1,0 +1,11 @@
+cosign.key
+_build_*
+output
+_build-*/**
+*.img
+*private*
+*.output
+*cache
+*.tools
+initrd*
+UltramarineMK_*
