@@ -13,6 +13,13 @@ Tested inside a fedora:rawhide distrobox
 
 Bootc support is not yet tested
 
+## How to build
+
+1. Create a fedora:rawhide distrobox
+2. Install mkosi and just with dnf
+3. Run `just build`
+4. Run the .raw in qemu
+
 ## Profiles
 
 ### - Bootc
